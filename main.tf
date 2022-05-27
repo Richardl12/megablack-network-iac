@@ -18,7 +18,7 @@ module "vpc" {
     CC = "10502"
     Team = "Devops"
     OwnerSquad = "MegaBlack"
-    OwnerSRE = "MB"
+    OwnerSRE = "MBDev"
   }
 }
 
