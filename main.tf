@@ -17,8 +17,8 @@ module "vpc" {
     Environment = "prod"
     CC = "10502"
     Team = "Devops"
-    OwnerSquad = "SMegaBlack"
-    OwnerSRE = "SMBlack"
+    OwnerSquad = "MegaBlack"
+    OwnerSRE = "MBlack"
   }
 }
 
