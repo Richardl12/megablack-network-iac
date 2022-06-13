@@ -35,6 +35,6 @@ module "alb" {
   ]
 
   tags = {
-    Environment = "ALBPROD"
+    Environment = "MB"
   }
 } 
